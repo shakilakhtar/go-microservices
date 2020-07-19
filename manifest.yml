@@ -1,0 +1,6 @@
+applications:
+  - name: go-microservice-seed
+    buildpack: go_buildpack
+    memory: 500M
+    services:
+      - <your postgres service>

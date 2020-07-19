@@ -1,0 +1,9 @@
+{
+
+    "api_port": "8000",
+    "client_id": "client_id",
+    "client_secret": "client_secret",
+    "uaa_host": "https://a8a2ffc4-b04e-4ec1-bfed-7a51dd408725.predix-uaa.run.aws-usw02-pr.ice.predix.io",
+    "auth_enabled": true
+
+}
